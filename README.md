@@ -8,7 +8,7 @@
 I'm a Full-Stack Software Engineer with a passion for gardening 🪴 
 
 - 👨🏻‍💻 I’m currently working on [Plantie](https://github.com/JoseGalvez-H/plantie)
-- 🧠 Right now I’m using Node.js, Express, MongoDb, Mongoose
+- 🧠 Right now I’m using Node.js, Express, MongoDB, Mongoose
 - 💬 Ask me about traveling or tips with indoor houseplants 🌱
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josegalvez-h/)
 - ⚡ Fun fact: I have touched a shark in Mexico 🦈
