@@ -5,7 +5,7 @@
 
 ### 🙇🏻‍♂️ About Me:
 
-I'm a Full-Stack Software Engineer with a passion for gardening 🪴 
+I'm an Adobe Digital Academy Scholarship recipient for Software Engineering with a passion for gardening 🪴 
 
 - 👨🏻‍💻 I’m currently working on [Plantie](https://github.com/JoseGalvez-H/plantie)
 - 🧠 Right now I’m using Node.js, Express, MongoDB, Mongoose
