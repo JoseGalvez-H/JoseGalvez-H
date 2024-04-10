@@ -5,7 +5,7 @@
 
 ### 🙇🏻‍♂️ About Me:
 
-I'm an Adobe Digital Academy Scholarship recipient for Software Engineering with a passion for gardening 🪴 
+I'm an Adobe Digital Academy Scholarship recipient with a passion for gardening 🪴 
 
 - 👨🏻‍💻 I’m currently working on [Plantie](https://github.com/JoseGalvez-H/plantie)
 - 🧠 Right now I’m using Node.js, Express, MongoDB, Mongoose
@@ -17,7 +17,7 @@ I'm an Adobe Digital Academy Scholarship recipient for Software Engineering with
 
 ![JavaScript, MongoDb, Express, Node.js, HTML5, CSS3](assets/languages2.png)
 
-### ✅ Let's Connect:
+### 🔌 Let's Connect:
 [![LinkedIn](assets/linkedinlogo.png)](https://www.linkedin.com/in/josegalvez-h/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josegalvez-h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
