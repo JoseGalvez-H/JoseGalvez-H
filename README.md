@@ -7,7 +7,7 @@
 
 I'm an Adobe Digital Academy Scholarship recipient with a passion for gardening 🪴 
 
-- 👨🏻‍💻 I’m currently working on [Plantie](https://github.com/JoseGalvez-H/leafie)
+- 👨🏻‍💻 I’m currently working on [Leafie](https://github.com/JoseGalvez-H/leafie)
 - 🧠 Right now I’m using Python, Django, PostgreSQL, Node.js, Express, MongoDB, Mongoose.
 - 💬 Ask me about traveling or tips with indoor houseplants 🌱
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josegalvez-h/)
