@@ -20,8 +20,6 @@ I'm an Adobe Digital Academy Scholarship recipient with a passion for gardening 
 ### 🔌 Let's Connect:
 [![LinkedIn](assets/linkedinlogo.png)](https://www.linkedin.com/in/josegalvez-h/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josegalvez-h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
